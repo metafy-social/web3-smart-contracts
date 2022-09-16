@@ -1,10 +1,10 @@
 # Web3 Smart Contracts
 
 <p align="center">
-  <a href="https://github.com/metafy-social/daily-python-scripts/issues"><img src="https://img.shields.io/github/issues/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/metafy-social/daily-python-scripts/fork"><img src="https://img.shields.io/github/forks/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/github/stars/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/metafy-social/daily-python-scripts/blob/master/LICENSE"><img src="https://img.shields.io/github/license/metafy-social/daily-python-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/metafy-social/web3-smart-contracts/issues"><img src="https://img.shields.io/github/issues/metafy-social/web3-smart-contracts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/metafy-social/web3-smart-contracts/fork"><img src="https://img.shields.io/github/forks/metafy-social/web3-smart-contracts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/github/stars/metafy-social/web3-smart-contracts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/metafy-social/web3-smart-contracts/blob/master/LICENSE"><img src="https://img.shields.io/github/license/metafy-social/web3-smart-contracts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
