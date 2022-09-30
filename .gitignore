@@ -5,6 +5,7 @@ coverage.json
 typechain
 typechain-types
 .DS_Store
+yarn-error.log
 
 #Hardhat files
 cache
