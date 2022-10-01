@@ -26,6 +26,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'yarn'
+    - run: npm ci
     - run: yarn
     - name: Compile Smart Contract
       run: npx hardhat compile
