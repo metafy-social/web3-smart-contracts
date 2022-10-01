@@ -19,14 +19,14 @@ jobs:
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
-    - run : npm i
+    - run : npm ci
     - name: Compile Smart Contract
-      run: npx hardhat compile
+      run: npm hardhat compile
     #- name: smart-contract coverage 
     #  run: npx hardhat coverage
 
