@@ -24,8 +24,7 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: ${{ matrix.node-version }}
-        cache: 'yarn'
-    - run : npm ci
+    - run : npm i
     - name: Compile Smart Contract
       run: npx hardhat compile
     #- name: smart-contract coverage 
