@@ -39,3 +39,68 @@ You can contribute by adding new scripts, improving current scripts or Documenta
 - [x] Pull latest change from upstream branch before starting the changing code.
 - [x] Add your file in proper folder(lowercase) with README.md in it. Add requirements.txt if needed.
 - [x] Please use flake8 linting in your code (See below to check flake8 linting)
+
+# Contributors 💪😎
+Thanks a lot for spending your time helping! Keep rocking 🍻
+<!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/advaita-saha">
+            <img src="https://avatars.githubusercontent.com/u/30210770?v=4" width="100;" alt="advaita-saha"/>
+            <br />
+            <sub><b>Advaita Saha</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kriptonian1">
+            <img src="https://avatars.githubusercontent.com/u/74916308?v=4" width="100;" alt="kriptonian1"/>
+            <br />
+            <sub><b>Sawan Bhattacharya</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/adityabhattad2021">
+            <img src="https://avatars.githubusercontent.com/u/93488388?v=4" width="100;" alt="adityabhattad2021"/>
+            <br />
+            <sub><b>Aditya Bhattad</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/guha-rahul">
+            <img src="https://avatars.githubusercontent.com/u/52607971?v=4" width="100;" alt="guha-rahul"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/sayan011">
+            <img src="https://avatars.githubusercontent.com/u/98570396?v=4" width="100;" alt="sayan011"/>
+            <br />
+            <sub><b>Sayan Chowdhury</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/0xVikasRushi">
+            <img src="https://avatars.githubusercontent.com/u/88543171?v=4" width="100;" alt="0xVikasRushi"/>
+            <br />
+            <sub><b>Vikas Rushi</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/nirban256">
+            <img src="https://avatars.githubusercontent.com/u/74231771?v=4" width="100;" alt="nirban256"/>
+            <br />
+            <sub><b>Nirban Chakraborty</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/smeax">
+            <img src="https://avatars.githubusercontent.com/u/114774652?v=4" width="100;" alt="smeax"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: contributors -end -->
