@@ -23,13 +23,12 @@ contract CrowdFunding{
     
     constructor(){
         owner = msg.sender;
-        amountRaised=0;
     }
     /**
      * registration for crowdfunding with name, descrition, victimaddress, target amount and mininum contribution
        deadline is unix time stand 
     */
-    function register(string memory _victimName ,string memory _description,address  _victimAddress, uint _target,uint _minContribution,uint _deadLine) public {
+    function register(string calldata _victimName ,string calldata _description,address  _victimAddress, uint _target,uint _minContribution,uint _deadLine) public {
         victimName = _victimName;
         description = _description;
         victimAddress = payable(_victimAddress);
@@ -41,7 +40,6 @@ contract CrowdFunding{
         require(msg.sender==owner,"you don't have permission of owner");
         _;
     }
-
     
     function contribute() payable public {
         require(msg.value>0 && msg.value > minContribution,"Min contribution set");
@@ -58,7 +56,11 @@ contract CrowdFunding{
     function TransferMoneyToVictim() public payable  {
         require(owner!=victimAddress,"Owner can't send money this his account");
         require(deadLine < block.timestamp,"Deadline is not completed");
-       victimAddress.transfer(address(this).balance);
+        victimAddress.transfer(address(this).balance);
+    }
+
+    function currentTime() public view  returns (uint){
+        return block.timestamp;
     }
 
     /**
@@ -85,3 +87,10 @@ contract CrowdFunding{
     }
     
 }
+
+//1139483- without currtime func
+//1183635- with currtime func
+//1137305- 1st gas opt
+//1106534- currtime not only owner
+//1104204- removed amountRaised=0 in constructor
+
