@@ -87,10 +87,3 @@ contract CrowdFunding{
     }
     
 }
-
-//1139483- without currtime func
-//1183635- with currtime func
-//1137305- 1st gas opt
-//1106534- currtime not only owner
-//1104204- removed amountRaised=0 in constructor
-
