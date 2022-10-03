@@ -60,6 +60,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/nitantchhajed">
+            <img src="https://avatars.githubusercontent.com/u/96972634?v=4" width="100;" alt="nitantchhajed"/>
+            <br />
+            <sub><b>Nitant</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/adityabhattad2021">
             <img src="https://avatars.githubusercontent.com/u/93488388?v=4" width="100;" alt="adityabhattad2021"/>
             <br />
@@ -79,15 +86,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/sayan011">
             <img src="https://avatars.githubusercontent.com/u/98570396?v=4" width="100;" alt="sayan011"/>
             <br />
             <sub><b>Sayan Chowdhury</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/0xVikasRushi">
             <img src="https://avatars.githubusercontent.com/u/88543171?v=4" width="100;" alt="0xVikasRushi"/>
