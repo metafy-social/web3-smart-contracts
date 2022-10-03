@@ -53,17 +53,17 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/kriptonian1">
-            <img src="https://avatars.githubusercontent.com/u/74916308?v=4" width="100;" alt="kriptonian1"/>
-            <br />
-            <sub><b>Sawan Bhattacharya</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/nitantchhajed">
             <img src="https://avatars.githubusercontent.com/u/96972634?v=4" width="100;" alt="nitantchhajed"/>
             <br />
             <sub><b>Nitant</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kriptonian1">
+            <img src="https://avatars.githubusercontent.com/u/74916308?v=4" width="100;" alt="kriptonian1"/>
+            <br />
+            <sub><b>Sawan Bhattacharya</b></sub>
         </a>
     </td>
     <td align="center">
