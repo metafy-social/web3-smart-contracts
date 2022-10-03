@@ -110,6 +110,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/rajdip-b">
+            <img src="https://avatars.githubusercontent.com/u/83924254?v=4" width="100;" alt="rajdip-b"/>
+            <br />
+            <sub><b>Rajdip Bhattacharya</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/smeax">
             <img src="https://avatars.githubusercontent.com/u/114774652?v=4" width="100;" alt="smeax"/>
             <br />
