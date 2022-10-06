@@ -5,6 +5,7 @@
     "hardhat": "^2.11.1"
   },
   "dependencies": {
+    "@chainlink/contracts": "^0.5.1",
     "@openzeppelin/contracts": "^4.7.3"
   }
 }
