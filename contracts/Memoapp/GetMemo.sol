@@ -58,13 +58,13 @@ contract GetMemo {
     }
 
     //------------------------...
-    uint256 costSpecialCofee = 0.00299 ether;
+    uint256 costSpecialMemo = 0.00299 ether;
 
-    function buyCofee2(string memory _name, string memory _message)
+    function buyMemo2(string memory _name, string memory _message)
         public
         payable
     {
-        require(msg.value > costSpecialCofee, "You have to pay more ETH ");
+        require(msg.value > costSpecialMemo, "You have to pay more ETH ");
 
         memos.push(Memo(msg.sender, block.timestamp, _name, _message));
         emit NewMemo(msg.sender, block.timestamp, _name, _message);

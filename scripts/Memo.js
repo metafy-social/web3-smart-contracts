@@ -40,7 +40,7 @@ async function main() {
   await getMemo.deployed();
   console.log("Memo contract deployed to:", getMemo.address);
 
-  // Check balances before the coffee purchase.
+  // Check balances before
   const addresses = [owner.address, tipper.address, getMemo.address];
   console.log("== start ==");
   await printBalances(addresses);
