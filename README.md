@@ -67,17 +67,17 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/adityabhattad2021">
-            <img src="https://avatars.githubusercontent.com/u/93488388?v=4" width="100;" alt="adityabhattad2021"/>
-            <br />
-            <sub><b>Aditya Bhattad</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ShwetKhatri2001">
             <img src="https://avatars.githubusercontent.com/u/56475750?v=4" width="100;" alt="ShwetKhatri2001"/>
             <br />
             <sub><b>Shwet Khatri</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/adityabhattad2021">
+            <img src="https://avatars.githubusercontent.com/u/93488388?v=4" width="100;" alt="adityabhattad2021"/>
+            <br />
+            <sub><b>Aditya Bhattad</b></sub>
         </a>
     </td>
     <td align="center">
@@ -93,6 +93,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/88335700?v=4" width="100;" alt="RijuChakraborty"/>
             <br />
             <sub><b>Riju Chakraborty</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/SunilPatel43">
+            <img src="https://avatars.githubusercontent.com/u/56433897?v=4" width="100;" alt="SunilPatel43"/>
+            <br />
+            <sub><b>Sunil Patel</b></sub>
         </a>
     </td>
     <td align="center">
@@ -122,15 +129,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Sayan Chowdhury</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/0xVikasRushi">
             <img src="https://avatars.githubusercontent.com/u/88543171?v=4" width="100;" alt="0xVikasRushi"/>
             <br />
             <sub><b>Vikas Rushi</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/nirban256">
             <img src="https://avatars.githubusercontent.com/u/74231771?v=4" width="100;" alt="nirban256"/>
