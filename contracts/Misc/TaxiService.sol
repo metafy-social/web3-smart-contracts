@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.9;
+pragma solidity ^0.8.7;
 
 // Taxi service contract
 
@@ -35,8 +35,8 @@ contract Taxi {
     uint price
   );
 
-  constructor(address _clientAddress) public {
-    companyAddress = msg.sender;
+  constructor(address _clientAddress) {
+    companyAddress = payable(msg.sender);
 
     clientAddress = _clientAddress;
   }
@@ -47,7 +47,7 @@ contract Taxi {
 
     orderCount ++;
     orders[orderCount] = Order(orderCount, xDep, yDep, xDest, yDest, 0, 0, false, false);
-    
+
     emit OrderRequested(msg.sender, orderCount, xDep, yDep, xDest, yDest);
   }
 
