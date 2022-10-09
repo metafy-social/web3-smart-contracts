@@ -96,6 +96,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/issa-me-sush">
+            <img src="https://avatars.githubusercontent.com/u/29679285?v=4" width="100;" alt="issa-me-sush"/>
+            <br />
+            <sub><b>Sushthecoda</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/guha-rahul">
             <img src="https://avatars.githubusercontent.com/u/52607971?v=4" width="100;" alt="guha-rahul"/>
             <br />
@@ -110,12 +117,20 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/supernovahs">
+            <img src="https://avatars.githubusercontent.com/u/91280922?v=4" width="100;" alt="supernovahs"/>
+            <br />
+            <sub><b>Supernovahs.eth</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/tsunami03">
             <img src="https://avatars.githubusercontent.com/u/96813639?v=4" width="100;" alt="tsunami03"/>
             <br />
             <sub><b>Priyadarshini Roy</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/rajdip-b">
             <img src="https://avatars.githubusercontent.com/u/83924254?v=4" width="100;" alt="rajdip-b"/>
@@ -129,8 +144,7 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Bartick Maiti</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sayan011">
             <img src="https://avatars.githubusercontent.com/u/98570396?v=4" width="100;" alt="sayan011"/>
