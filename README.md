@@ -89,6 +89,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/SunilPatel43">
+            <img src="https://avatars.githubusercontent.com/u/56433897?v=4" width="100;" alt="SunilPatel43"/>
+            <br />
+            <sub><b>Sunil Patel</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/guha-rahul">
             <img src="https://avatars.githubusercontent.com/u/52607971?v=4" width="100;" alt="guha-rahul"/>
             <br />
@@ -100,13 +107,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/88335700?v=4" width="100;" alt="RijuChakraborty"/>
             <br />
             <sub><b>Riju Chakraborty</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/SunilPatel43">
-            <img src="https://avatars.githubusercontent.com/u/56433897?v=4" width="100;" alt="SunilPatel43"/>
-            <br />
-            <sub><b>Sunil Patel</b></sub>
         </a>
     </td>
     <td align="center">
