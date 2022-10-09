@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.9;
+pragma solidity ^0.8.9;
 
 // This is a smart contract for coin-flip game.
 // Here 2 individuals agree play the game. They each send an identical amount of ETH to the contract.
