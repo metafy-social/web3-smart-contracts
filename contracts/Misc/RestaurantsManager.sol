@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
-contract Ballot {
+contract RestaurantsManager {
 
     // Review structure
     struct Review{
@@ -31,7 +31,9 @@ contract Ballot {
         uint number_of_votes;
     }
 
-    address public chairperson=0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
+    // Enter the MetaMask address of a person you want to have as charperson.
+    // Here is a random address used for testing purpose
+    address public chairperson=0x4C44cC4c444C444444cCCCC44ccC444C44C4c4C4;
 
     
     // A dynamically-sized array of `restaurant` structs.
