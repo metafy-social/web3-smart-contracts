@@ -1,4 +1,5 @@
-pragma solidity ^0.4.17;
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
 
 contract Record {
     
@@ -63,14 +64,14 @@ contract Record {
     uint256 public appointmentCount = 0;
     uint256 public permissionGrantedCount = 0;
     
-    function Record() public {
+    constructor()  {
         owner = msg.sender;
     }
     
     //Retrieve patient details from user sign up page and store the details into the blockchain
-    function setDetails(string _ic, string _name, string _phone, string _gender, string _dob, string _height, string _weight, string _houseaddr, string _bloodgroup, string _allergies, string _medication, string _emergencyName, string _emergencyContact) public {
+    function setDetails(string memory _ic, string memory _name, string memory _phone, string memory _gender, string memory _dob, string memory _height, string memory _weight, string memory _houseaddr, string memory _bloodgroup, string memory _allergies, string memory _medication) public {
         require(!isPatient[msg.sender]);
-        var p = patients[msg.sender];
+        Patients storage p = patients[msg.sender];
         
         p.ic = _ic;
         p.name = _name;
@@ -83,8 +84,8 @@ contract Record {
         p.bloodgroup = _bloodgroup;
         p.allergies = _allergies;
         p.medication = _medication;
-        p.emergencyName = _emergencyName;
-        p.emergencyContact = _emergencyContact;
+        // p.emergencyName = _emergencyName;
+        // p.emergencyContact = _emergencyContact;
         p.addr = msg.sender;
         p.date = block.timestamp;
         
@@ -94,10 +95,10 @@ contract Record {
         patientCount++;
     }
     
-    //Allows patient to edit their existing record
-    function editDetails(string _ic, string _name, string _phone, string _gender, string _dob, string _height, string _weight, string _houseaddr, string _bloodgroup, string _allergies, string _medication, string _emergencyName, string _emergencyContact) public {
+    // //Allows patient to edit their existing record
+    function editDetails(string memory _ic, string memory _name, string memory _phone, string memory _gender, string memory _dob, string memory _height, string memory _weight, string memory _houseaddr, string memory _bloodgroup, string memory _allergies, string memory _medication) public {
         require(isPatient[msg.sender]);
-        var p = patients[msg.sender];
+        Patients storage p = patients[msg.sender];
         
         p.ic = _ic;
         p.name = _name;
@@ -110,15 +111,15 @@ contract Record {
         p.bloodgroup = _bloodgroup;
         p.allergies = _allergies;
         p.medication = _medication;
-        p.emergencyName = _emergencyName;
-        p.emergencyContact = _emergencyContact;
+        // p.emergencyName = _emergencyName;
+        // p.emergencyContact = _emergencyContact;
         p.addr = msg.sender;    
     }
 
     //Retrieve patient details from doctor registration page and store the details into the blockchain
-    function setDoctor(string _ic, string _name, string _phone, string _gender, string _dob, string _qualification, string _major) public {
+    function setDoctor(string memory _ic, string memory _name, string memory _phone, string memory _gender, string memory _dob, string memory _qualification, string memory _major) public {
         require(!isDoctor[msg.sender]);
-        var d = doctors[msg.sender];
+        Doctors storage d = doctors[msg.sender];
         
         d.ic = _ic;
         d.name = _name;
@@ -136,9 +137,9 @@ contract Record {
     }
 
     //Allows doctors to edit their existing profile
-    function editDoctor(string _ic, string _name, string _phone, string _gender, string _dob, string _qualification, string _major) public {
+    function editDoctor(string memory _ic, string memory _name, string memory _phone, string memory _gender, string memory _dob, string memory _qualification, string memory _major) public {
         require(isDoctor[msg.sender]);
-        var d = doctors[msg.sender];
+        Doctors storage d = doctors[msg.sender];
         
         d.ic = _ic;
         d.name = _name;
@@ -151,9 +152,9 @@ contract Record {
     }
 
     //Retrieve appointment details from appointment page and store the details into the blockchain
-    function setAppointment(address _addr, string _date, string _time, string _diagnosis, string _prescription, string _description, string _status) public {
+    function setAppointment(address  _addr, string memory _date, string memory _time, string memory _diagnosis, string memory _prescription, string memory _description, string memory _status) public {
         require(isDoctor[msg.sender]);
-        var a = appointments[_addr];
+        Appointments storage a = appointments[_addr];
         
         a.doctoraddr = msg.sender;
         a.patientaddr = _addr;
@@ -171,9 +172,9 @@ contract Record {
     }
     
     //Retrieve appointment details from appointment page and store the details into the blockchain
-    function updateAppointment(address _addr, string _date, string _time, string _diagnosis, string _prescription, string _description, string _status) public {
+    function updateAppointment(address  _addr, string memory _date, string memory _time, string memory _diagnosis, string memory _prescription, string memory _description, string memory _status) public {
         require(isDoctor[msg.sender]);
-        var a = appointments[_addr];
+        Appointments storage a = appointments[_addr];
         
         a.doctoraddr = msg.sender;
         a.patientaddr = _addr;
@@ -199,72 +200,72 @@ contract Record {
     }
 
     //Retrieve a list of all patients address
-    function getPatients() public view returns(address[]) {
+    function getPatients() public view returns(address[] memory) {
         return patientList;
     }
 
     //Retrieve a list of all doctors address
-    function getDoctors() public view returns(address[]) {
+    function getDoctors() public view returns(address[] memory) {
         return doctorList;
     }
 
     //Retrieve a list of all appointments address
-    function getAppointments() public view returns(address[]) {
+    function getAppointments() public view returns(address[] memory) {
         return appointmentList;
     }
     
     //Search patient details by entering a patient address (Only record owner or doctor with permission will be allowed to access)
-    function searchPatientDemographic(address _address) public view returns(string, string, string, string, string, string, string) {
+    function searchPatientDemographic(address   _address) public view returns(string memory, string memory, string memory, string memory, string memory, string memory, string memory) {
         require(isApproved[_address][msg.sender]);
         
-        var p = patients[_address];
+        Patients memory p = patients[_address];
         
         return (p.ic, p.name, p.phone, p.gender, p.dob, p.height, p.weight);
     }
 
     //Search patient details by entering a patient address (Only record owner or doctor with permission will be allowed to access)
-    function searchPatientMedical(address _address) public view returns(string, string, string, string, string, string) {
+    function searchPatientMedical(address  _address) public view returns(string memory, string memory, string memory, string memory, string memory, string memory) {
         require(isApproved[_address][msg.sender]);
         
-        var p = patients[_address];
+        Patients memory p = patients[_address];
         
         return (p.houseaddr, p.bloodgroup, p.allergies, p.medication, p.emergencyName, p.emergencyContact);
     }
 
     //Search doctor details by entering a doctor address (Only doctor will be allowed to access)
-    function searchDoctor(address _address) public view returns(string, string, string, string, string, string, string) {
+    function searchDoctor(address  _address) public view returns(string memory, string memory, string memory, string memory, string memory, string memory, string memory) {
         require(isDoctor[_address]);
         
-        var d = doctors[_address];
+        Doctors memory d = doctors[_address];
         
         return (d.ic, d.name, d.phone, d.gender, d.dob, d.qualification, d.major);
     }
     
     //Search appointment details by entering a patient address
-    function searchAppointment(address _address) public view returns(address, string, string, string, string, string, string, string) {
-        var a = appointments[_address];
-        var d = doctors[a.doctoraddr];
+    function searchAppointment(address  _address) public view returns(address , string memory, string memory, string memory, string memory, string memory, string memory, string memory) {
+        Appointments memory a = appointments[_address];
+        Doctors memory d = doctors[a.doctoraddr];
 
         return (a.doctoraddr, d.name, a.date, a.time, a.diagnosis, a.prescription, a.description, a.status);
     }
 
     //Search patient record creation date by entering a patient address
-    function searchRecordDate(address _address) public view returns(uint) {
-        var p = patients[_address];
+    function searchRecordDate(address  _address) public view returns(uint) {
+        Patients memory p = patients[_address];
         
         return (p.date);
     }
 
     //Search doctor profile creation date by entering a patient address
-    function searchDoctorDate(address _address) public view returns(uint) {
-        var d = doctors[_address];
+    function searchDoctorDate(address  _address) public view returns(uint) {
+        Doctors memory d = doctors[_address];
         
         return (d.date);
     }
 
     //Search appointment creation date by entering a patient address
-    function searchAppointmentDate(address _address) public view returns(uint) {
-        var a = appointments[_address];
+    function searchAppointmentDate(address  _address) public view returns(uint) {
+        Appointments memory a = appointments[_address];
         
         return (a.creationDate);
     }
@@ -290,7 +291,7 @@ contract Record {
     }
 
     //Retrieve permission granted count
-    function getAppointmentPerPatient(address _address) public view returns(uint256) {
+    function getAppointmentPerPatient(address  _address) public view returns(uint256) {
         return AppointmentPerPatient[_address];
     }
 
