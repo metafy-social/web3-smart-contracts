@@ -57,7 +57,7 @@ contract GetMemo {
         emit NewMemo(msg.sender, block.timestamp, _name, _message);
     }
 
-    //------------------------...
+    //------------------------
     uint256 costSpecialMemo = 0.00299 ether;
 
     function buyMemo2(string memory _name, string memory _message)
