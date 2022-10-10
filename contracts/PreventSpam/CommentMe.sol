@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.17;
+pragma solidity ^0.8.13;
 
 contract CommentMe {
     //It will help us in getting total comments, so far.
