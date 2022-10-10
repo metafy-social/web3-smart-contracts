@@ -110,6 +110,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/tsunami03">
+            <img src="https://avatars.githubusercontent.com/u/96813639?v=4" width="100;" alt="tsunami03"/>
+            <br />
+            <sub><b>Priyadarshini Roy</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/RijuChakraborty">
             <img src="https://avatars.githubusercontent.com/u/88335700?v=4" width="100;" alt="RijuChakraborty"/>
             <br />
@@ -121,13 +128,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/91280922?v=4" width="100;" alt="supernovahs"/>
             <br />
             <sub><b>Supernovahs.eth</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/tsunami03">
-            <img src="https://avatars.githubusercontent.com/u/96813639?v=4" width="100;" alt="tsunami03"/>
-            <br />
-            <sub><b>Priyadarshini Roy</b></sub>
         </a>
     </td></tr>
 <tr>
