@@ -146,6 +146,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/rahulkarda">
+            <img src="https://avatars.githubusercontent.com/u/76204863?v=4" width="100;" alt="rahulkarda"/>
+            <br />
+            <sub><b>Rahul Karda</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/sayan011">
             <img src="https://avatars.githubusercontent.com/u/98570396?v=4" width="100;" alt="sayan011"/>
             <br />
@@ -165,15 +172,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Nirban Chakraborty</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/smeax">
             <img src="https://avatars.githubusercontent.com/u/114774652?v=4" width="100;" alt="smeax"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/yes-im-harsh">
             <img src="https://avatars.githubusercontent.com/u/76259017?v=4" width="100;" alt="yes-im-harsh"/>
