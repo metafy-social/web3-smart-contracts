@@ -173,5 +173,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <sub><b>Null</b></sub>
         </a>
     </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/yes-im-harsh">
+            <img src="https://avatars.githubusercontent.com/u/76259017?v=4" width="100;" alt="yes-im-harsh"/>
+            <br />
+            <sub><b>Harsh Chauhan</b></sub>
+        </a>
+    </td></tr>
 </table>
 <!-- readme: contributors -end -->
