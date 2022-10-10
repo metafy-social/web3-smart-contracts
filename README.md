@@ -167,13 +167,20 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Dhanush-2605">
+            <img src="https://avatars.githubusercontent.com/u/90703523?v=4" width="100;" alt="Dhanush-2605"/>
+            <br />
+            <sub><b>Dhanush</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/nirban256">
             <img src="https://avatars.githubusercontent.com/u/74231771?v=4" width="100;" alt="nirban256"/>
             <br />
             <sub><b>Nirban Chakraborty</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/smeax">
             <img src="https://avatars.githubusercontent.com/u/114774652?v=4" width="100;" alt="smeax"/>
