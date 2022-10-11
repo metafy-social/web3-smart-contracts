@@ -4,7 +4,7 @@
 // we will generate a random number between 1 to 10 and if the number matches with player's number then we will return 10X of the amount he bets and if it's not the same number then he gets 10% of his bet.
 
 
-pragma solidity 0.8.9;
+pragma solidity 0.8.0;
 
 contract Casino{
     uint public numberInput;
