@@ -1,0 +1,9 @@
+Package required:-
+
+    1. @aave/core-v3 - install it using npm or yarn with the command "npm i @aave/core-v3".
+
+Required imports:-
+
+    1. {FlashLoanSimpleReceiverBase} - import from "@aave/core-v3/contracts/flashloan/base/FlashLoanSimpleReceiverBase.sol".
+    2. {IPoolAddressesProvider} - import from "@aave/core-v3/contracts/interfaces/IPoolAddressesProvider.sol".
+    3. {IERC20} - import from "@aave/core-v3/contracts/dependencies/openzeppelin/contracts/IERC20.sol".
