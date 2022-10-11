@@ -67,6 +67,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/adityabhattad2021">
+            <img src="https://avatars.githubusercontent.com/u/93488388?v=4" width="100;" alt="adityabhattad2021"/>
+            <br />
+            <sub><b>Aditya Bhattad</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/niluk-256">
             <img src="https://avatars.githubusercontent.com/u/67406138?v=4" width="100;" alt="niluk-256"/>
             <br />
@@ -79,20 +86,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Shwet Khatri</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/tsunami03">
             <img src="https://avatars.githubusercontent.com/u/96813639?v=4" width="100;" alt="tsunami03"/>
             <br />
             <sub><b>Priyadarshini Roy</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/adityabhattad2021">
-            <img src="https://avatars.githubusercontent.com/u/93488388?v=4" width="100;" alt="adityabhattad2021"/>
-            <br />
-            <sub><b>Aditya Bhattad</b></sub>
         </a>
     </td>
     <td align="center">
