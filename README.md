@@ -74,17 +74,17 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/niluk-256">
-            <img src="https://avatars.githubusercontent.com/u/67406138?v=4" width="100;" alt="niluk-256"/>
-            <br />
-            <sub><b>Niluk</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ShwetKhatri2001">
             <img src="https://avatars.githubusercontent.com/u/56475750?v=4" width="100;" alt="ShwetKhatri2001"/>
             <br />
             <sub><b>Shwet Khatri</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/niluk-256">
+            <img src="https://avatars.githubusercontent.com/u/67406138?v=4" width="100;" alt="niluk-256"/>
+            <br />
+            <sub><b>Niluk</b></sub>
         </a>
     </td></tr>
 <tr>
