@@ -203,20 +203,27 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/vish-han">
+            <img src="https://avatars.githubusercontent.com/u/44545745?v=4" width="100;" alt="vish-han"/>
+            <br />
+            <sub><b>Vishal Chauhan</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Dhanush-2605">
             <img src="https://avatars.githubusercontent.com/u/90703523?v=4" width="100;" alt="Dhanush-2605"/>
             <br />
             <sub><b>Dhanush</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/smeax">
             <img src="https://avatars.githubusercontent.com/u/114774652?v=4" width="100;" alt="smeax"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/yes-im-harsh">
             <img src="https://avatars.githubusercontent.com/u/76259017?v=4" width="100;" alt="yes-im-harsh"/>
