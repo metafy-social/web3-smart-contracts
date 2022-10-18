@@ -132,6 +132,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/0xVikasRushi">
+            <img src="https://avatars.githubusercontent.com/u/88543171?v=4" width="100;" alt="0xVikasRushi"/>
+            <br />
+            <sub><b>Vikas Rushi</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Engineervinay">
             <img src="https://avatars.githubusercontent.com/u/29520476?v=4" width="100;" alt="Engineervinay"/>
             <br />
@@ -165,15 +172,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Anmol </b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/aynp">
             <img src="https://avatars.githubusercontent.com/u/75756768?v=4" width="100;" alt="aynp"/>
             <br />
             <sub><b>Aryan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/bartick">
             <img src="https://avatars.githubusercontent.com/u/69100224?v=4" width="100;" alt="bartick"/>
@@ -200,13 +207,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/93722719?v=4" width="100;" alt="ighoshsubho"/>
             <br />
             <sub><b>Null</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/0xVikasRushi">
-            <img src="https://avatars.githubusercontent.com/u/88543171?v=4" width="100;" alt="0xVikasRushi"/>
-            <br />
-            <sub><b>Vikas Rushi</b></sub>
         </a>
     </td>
     <td align="center">
