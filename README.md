@@ -153,6 +153,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Vikash-8090-Yadav">
+            <img src="https://avatars.githubusercontent.com/u/85225156?v=4" width="100;" alt="Vikash-8090-Yadav"/>
+            <br />
+            <sub><b>Vikash Yadav</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Engineervinay">
             <img src="https://avatars.githubusercontent.com/u/29520476?v=4" width="100;" alt="Engineervinay"/>
             <br />
@@ -165,15 +172,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Nirban Chakraborty</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/smeax">
             <img src="https://avatars.githubusercontent.com/u/114774652?v=4" width="100;" alt="smeax"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/antoprince001">
             <img src="https://avatars.githubusercontent.com/u/47826916?v=4" width="100;" alt="antoprince001"/>
@@ -208,15 +215,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Bartick Maiti</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/rahulkarda">
             <img src="https://avatars.githubusercontent.com/u/76204863?v=4" width="100;" alt="rahulkarda"/>
             <br />
             <sub><b>Rahul Karda</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sayan011">
             <img src="https://avatars.githubusercontent.com/u/98570396?v=4" width="100;" alt="sayan011"/>
@@ -243,13 +250,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/87560178?v=4" width="100;" alt="codingis4noobs2"/>
             <br />
             <sub><b>Null</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Dhanush-2605">
-            <img src="https://avatars.githubusercontent.com/u/90703523?v=4" width="100;" alt="Dhanush-2605"/>
-            <br />
-            <sub><b>Dhanush</b></sub>
         </a>
     </td>
     <td align="center">
