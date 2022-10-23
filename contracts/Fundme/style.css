@@ -1,0 +1,119 @@
+body {
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    margin-left: 60px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.main {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    background-color: #e3e9ee;
+    box-shadow: 10px 10px 10px lightgrey;
+    padding: 100px;
+    border-radius: 20px;
+
+}
+
+.icon {
+    color: red;
+    margin-top: 20px;
+    height: 12px;
+    width: 50px;
+    margin-left: 20px;
+}
+
+.butt {
+    box-shadow: inset 0px 1px 0px 0px #40548a;
+    background: linear-gradient(to bottom, #3d3dd1 5%, #5d95e3 100%);
+    background-color: #eae2d9;
+    border-radius: 11px;
+    border: 2px solid #68bce0;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px 18px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #6183d2;
+}
+
+.butt:hover {
+    background: linear-gradient(to bottom, #259efb 5%, #1973bd 100%);
+    background-color: #2573fb;
+}
+
+.butt:active {
+    position: relative;
+    top: 1px;
+}
+
+#fnd {
+    border: none;
+    width: 50px;
+}
+
+#input {
+    border: 2px solid red;
+    border-radius: 4px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.new {
+    margin-top: 10px;
+    display: flex;
+}
+
+.balance {
+    margin-top: 20px;
+    display: flex;
+
+}
+
+.bala {
+    margin-left: 0px;
+    margin-right: 20px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.withdraw {
+    margin-left: 0px;
+    margin-right: 20px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.eth {
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#i {
+    margin-left: 20px;
+    margin-right: 40px;
+}
+
+.logo {
+
+    height: 12px;
+    width: 50px;
+    margin-right: 70px;
+
+}
