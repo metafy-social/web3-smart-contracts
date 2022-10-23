@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
-import "./Interfaces/DydxFlashLoanBase.sol";
-import "./Interfaces/ICallee.sol";
+import "./interfaces/DydxFlashLoanBase.sol";
+import "./interfaces/ICallee.sol";
 
 contract TestDyDxSoloMargin is ICallee, DydxFlashloanBase {
   address private constant SOLO = 0x1E0447b19BB6EcFdAe1e4AE1694b0C3659614e4e;
