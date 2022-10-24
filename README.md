@@ -24,7 +24,7 @@
 ## Hacktoberfest 2022 Update
 
 **See full details and guidelines on**
-  * [Hacktober cheasheat](https://github.com/metafy-social/python-scripts/blob/master/HACKTOBERFEST.md)
+  * [Hacktober cheasheat](https://github.com/metafy-social/py-scripts/blob/master/HACKTOBERFEST.md)
   * [Official website](https://hacktoberfest.digitalocean.com/)
 
 
