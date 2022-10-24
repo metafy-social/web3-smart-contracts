@@ -96,6 +96,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/bartick">
+            <img src="https://avatars.githubusercontent.com/u/69100224?v=4" width="100;" alt="bartick"/>
+            <br />
+            <sub><b>Bartick Maiti</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/SunilPatel43">
             <img src="https://avatars.githubusercontent.com/u/56433897?v=4" width="100;" alt="SunilPatel43"/>
             <br />
@@ -114,13 +121,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/52607971?v=4" width="100;" alt="guha-rahul"/>
             <br />
             <sub><b>Null</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/bartick">
-            <img src="https://avatars.githubusercontent.com/u/69100224?v=4" width="100;" alt="bartick"/>
-            <br />
-            <sub><b>Bartick Maiti</b></sub>
         </a>
     </td>
     <td align="center">
@@ -218,6 +218,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/PrakashGatiyala">
+            <img src="https://avatars.githubusercontent.com/u/34413515?v=4" width="100;" alt="PrakashGatiyala"/>
+            <br />
+            <sub><b>Prakash Gatiyala</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/rahulkarda">
             <img src="https://avatars.githubusercontent.com/u/76204863?v=4" width="100;" alt="rahulkarda"/>
             <br />
@@ -251,15 +258,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Dhanush-2605">
             <img src="https://avatars.githubusercontent.com/u/90703523?v=4" width="100;" alt="Dhanush-2605"/>
             <br />
             <sub><b>Dhanush</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/yes-im-harsh">
             <img src="https://avatars.githubusercontent.com/u/76259017?v=4" width="100;" alt="yes-im-harsh"/>
