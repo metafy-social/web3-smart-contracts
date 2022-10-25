@@ -117,20 +117,27 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/AnmolSirola">
+            <img src="https://avatars.githubusercontent.com/u/95535448?v=4" width="100;" alt="AnmolSirola"/>
+            <br />
+            <sub><b>Anmol </b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/guha-rahul">
             <img src="https://avatars.githubusercontent.com/u/52607971?v=4" width="100;" alt="guha-rahul"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Debopom-Banerjee">
             <img src="https://avatars.githubusercontent.com/u/94488557?v=4" width="100;" alt="Debopom-Banerjee"/>
             <br />
             <sub><b>Debopom Banerjee</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/RijuChakraborty">
             <img src="https://avatars.githubusercontent.com/u/88335700?v=4" width="100;" alt="RijuChakraborty"/>
@@ -143,13 +150,6 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <img src="https://avatars.githubusercontent.com/u/91280922?v=4" width="100;" alt="supernovahs"/>
             <br />
             <sub><b>Supernovahs.eth</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/AnmolSirola">
-            <img src="https://avatars.githubusercontent.com/u/95535448?v=4" width="100;" alt="AnmolSirola"/>
-            <br />
-            <sub><b>Anmol </b></sub>
         </a>
     </td>
     <td align="center">
@@ -232,6 +232,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/riyaroy2086">
+            <img src="https://avatars.githubusercontent.com/u/89868832?v=4" width="100;" alt="riyaroy2086"/>
+            <br />
+            <sub><b>Riya Roy</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/sayan011">
             <img src="https://avatars.githubusercontent.com/u/98570396?v=4" width="100;" alt="sayan011"/>
             <br />
@@ -251,15 +258,15 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Vishal Chauhan</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/codingis4noobs2">
             <img src="https://avatars.githubusercontent.com/u/87560178?v=4" width="100;" alt="codingis4noobs2"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Dhanush-2605">
             <img src="https://avatars.githubusercontent.com/u/90703523?v=4" width="100;" alt="Dhanush-2605"/>
