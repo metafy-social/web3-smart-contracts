@@ -2,6 +2,8 @@
 
 pragma solidity ^0.8;
 
+import "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol";
+
 contract TestChainlink {
     AggregatorV3Interface internal priceFeed;
 
@@ -23,9 +25,9 @@ contract TestChainlink {
     }
 }
 
-interface AggregatorV3Interface {
-    function latestRoundData() external view returns (uint80 roundId, int answer, uint startedAt, uint updatedAt, uint80 answeredInRound);
-}
+// interface AggregatorV3Interface {
+//     function latestRoundData() external view returns (uint80 roundId, int answer, uint startedAt, uint updatedAt, uint80 answeredInRound);
+// }
 
 
 
