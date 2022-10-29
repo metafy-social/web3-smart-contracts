@@ -12,7 +12,7 @@ interface IERC721 {
 
 error AuctionExpired();
 error AuctionFinished();
-error InsufficientValue(uint256 receivedAmount, uint256 price requiredAmount);
+error InsufficientValue(uint256 receivedAmount, uint256 requiredAmount);
 
 contract DutchAuction {
     event Buy(address winner, uint256 amount);
