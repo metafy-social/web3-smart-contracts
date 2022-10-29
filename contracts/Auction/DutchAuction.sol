@@ -10,6 +10,10 @@ interface IERC721 {
     ) external;
 }
 
+error AuctionExpired();
+error AuctionFinished();
+InsufficientValue(uint256 receivedAmount, uint256 price requiredAmount);
+
 contract DutchAuction {
     event Buy(address winner, uint256 amount);
 
@@ -41,15 +45,21 @@ contract DutchAuction {
 
     function buy() external payable {
         // Check for the timestamp before buy
-        require(block.timestamp < expiresAt, "auction expired");
+        if(block.timestamp >= expiresAt){
+          revert AuctionExpired();
+        }
 
-        require(winner == address(0), "auction finished");
+        if(winner != address(0)) {
+          revert AuctionFinished();
+        }
 
         uint256 timeElapsed = block.timestamp - startAt;
         uint256 deduction = priceDeductionRate * timeElapsed;
         uint256 price = startingPrice - deduction;
 
-        require(msg.value >= price, "ETH < price");
+        if(msg.value < price){
+          revert InsufficientValue(msg.value, price);
+        }
 
         winner = msg.sender;
         nft.transferFrom(seller, msg.sender, nftId);
