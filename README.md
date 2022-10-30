@@ -89,17 +89,17 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/niluk-256">
-            <img src="https://avatars.githubusercontent.com/u/67406138?v=4" width="100;" alt="niluk-256"/>
-            <br />
-            <sub><b>Niluk</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/bartick">
             <img src="https://avatars.githubusercontent.com/u/69100224?v=4" width="100;" alt="bartick"/>
             <br />
             <sub><b>Bartick Maiti</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/niluk-256">
+            <img src="https://avatars.githubusercontent.com/u/67406138?v=4" width="100;" alt="niluk-256"/>
+            <br />
+            <sub><b>Niluk</b></sub>
         </a>
     </td>
     <td align="center">
@@ -160,20 +160,27 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/PrakashGatiyala">
+            <img src="https://avatars.githubusercontent.com/u/34413515?v=4" width="100;" alt="PrakashGatiyala"/>
+            <br />
+            <sub><b>Prakash Gatiyala</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Vikash-8090-Yadav">
             <img src="https://avatars.githubusercontent.com/u/85225156?v=4" width="100;" alt="Vikash-8090-Yadav"/>
             <br />
             <sub><b>Vikash Yadav</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Engineervinay">
             <img src="https://avatars.githubusercontent.com/u/29520476?v=4" width="100;" alt="Engineervinay"/>
             <br />
             <sub><b>Vinay Patil </b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/nirban256">
             <img src="https://avatars.githubusercontent.com/u/74231771?v=4" width="100;" alt="nirban256"/>
@@ -208,20 +215,13 @@ Thanks a lot for spending your time helping! Keep rocking 🍻
             <br />
             <sub><b>Abel Ayalew</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/aynp">
             <img src="https://avatars.githubusercontent.com/u/75756768?v=4" width="100;" alt="aynp"/>
             <br />
             <sub><b>Aryan</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/PrakashGatiyala">
-            <img src="https://avatars.githubusercontent.com/u/34413515?v=4" width="100;" alt="PrakashGatiyala"/>
-            <br />
-            <sub><b>Prakash Gatiyala</b></sub>
         </a>
     </td>
     <td align="center">
